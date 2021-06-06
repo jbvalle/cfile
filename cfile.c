@@ -18,7 +18,6 @@ int main() {
 	//fasdfasdf
 
 	//asdfasdfasd
->>>>>>> dev
     printf("Your chosen number is: %d", num);
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
