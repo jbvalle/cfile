@@ -18,7 +18,8 @@ int main() {
 	//fasdfasdf
 
 	//asdfasdfasd
-    printf("Your chosen number is: %d", num);
+
+	//asdf
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
 
