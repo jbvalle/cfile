@@ -13,7 +13,7 @@ int main() {
 
 	//hello abc
 
-	//hello
+	//hellogi12345678
     printf("Your chosen number is: %d", num);
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
