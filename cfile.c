@@ -12,14 +12,23 @@ int main() {
 	scanf("%d",&num);
 
 	//hello 234567
+	//asdfasdfasd
 
 	//hello fasdfasdf
 
 	//fasdfasdf
 
 	//asdfasdfasd
-
+    printf("Your chosen number is: %d", num);
 	//asdf
+//asdfasdf
+
+//Asdfasdf/aasdfa
+
+
+//Asdfasd
+
+	//asdfasdf
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
 
