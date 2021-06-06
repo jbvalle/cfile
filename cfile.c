@@ -12,14 +12,11 @@ int main() {
 	scanf("%d",&num);
 
 	//hello 234567
-
-	//hello fasdfasdf
-
-	//fasdfasdf
-
 	//asdfasdfasd
 
 	//asdf
+
+	//asdfasdf
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
 
