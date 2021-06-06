@@ -11,8 +11,9 @@ int main() {
 	printf("Please Type a number of your choosing: ");
 	scanf("%d",&num);
 
-	printf("cfasdfasdf");
-//testsdfs
+	//hello abc
+
+	//hello
     printf("Your chosen number is: %d", num);
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
