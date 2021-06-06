@@ -11,9 +11,10 @@ int main() {
 	printf("Please Type a number of your choosing: ");
 	scanf("%d",&num);
 
-	//hello abc
+	//hello 234567
 
-	//hellogi12345678
+	//hello fasdfasdf
+	
     printf("Your chosen number is: %d", num);
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
