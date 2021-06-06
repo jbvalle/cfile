@@ -14,7 +14,11 @@ int main() {
 	//hello 234567
 
 	//hello fasdfasdf
-	
+
+	//fasdfasdf
+
+	//asdfasdfasd
+>>>>>>> dev
     printf("Your chosen number is: %d", num);
 	fprintf(ptr,"%d",num);
 	fclose(ptr);
