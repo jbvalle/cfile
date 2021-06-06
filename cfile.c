@@ -15,6 +15,12 @@ int main() {
 	//asdfasdfasd
 
 	//asdf
+//asdfasdf
+
+//Asdfasdf/aasdfa
+
+
+//Asdfasd
 
 	//asdfasdf
 	fprintf(ptr,"%d",num);
